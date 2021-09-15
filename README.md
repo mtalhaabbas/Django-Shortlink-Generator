@@ -19,4 +19,4 @@ python manage.py runserver
 
 `You can generate your short link by using this app. Details are given in picture`
 
-<p align="center"><img src="" alt="Details of shortlink" /></p>
+<p align="center"><img src="https://repository-images.githubusercontent.com/406648433/1288c770-c026-4dd5-8af1-e44d1ea14c6c" alt="Details of shortlink" /></p>
