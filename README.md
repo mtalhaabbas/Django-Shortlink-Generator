@@ -16,7 +16,7 @@ python manage.py runserver
 ```
 
 ### QR Code Generator API
-![image](https://user-images.githubusercontent.com/70336405/135057644-21b44295-b3c0-4115-9632-65177e8b4a44.png)
+
 
 
 `You can generate your short link by using this app. Details are given in picture`
